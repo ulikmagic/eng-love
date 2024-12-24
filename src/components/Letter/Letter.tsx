@@ -12,7 +12,7 @@ const Letter = ({ next = () => {} }) => {
 					<div className='letter'>
 						<div className='text'>
 							<strong className='font-main text-base flex items-center gap-1 font-bold'>
-								Привет Жансулу
+								Привет lovvelyeon
 								<span className='cursor-pointer' onClick={next}>
 									<StarIcon className='w-4 h-4' />
 								</span>
